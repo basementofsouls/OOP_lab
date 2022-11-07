@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\3 сем\ООП\OOP_lab\Kontrolnaya\Kontrolnaya\bin\Debug\net6.0\Kontrolnaya.exe
+C:\Users\Acer\Desktop\3 сем\ООП\OOP_lab\Kontrolnaya\Kontrolnaya\bin\Debug\net6.0\Kontrolnaya.deps.json
+C:\Users\Acer\Desktop\3 сем\ООП\OOP_lab\Kontrolnaya\Kontrolnaya\bin\Debug\net6.0\Kontrolnaya.runtimeconfig.json
+C:\Users\Acer\Desktop\3 сем\ООП\OOP_lab\Kontrolnaya\Kontrolnaya\bin\Debug\net6.0\Kontrolnaya.dll
+C:\Users\Acer\Desktop\3 сем\ООП\OOP_lab\Kontrolnaya\Kontrolnaya\bin\Debug\net6.0\Kontrolnaya.pdb
+C:\Users\Acer\Desktop\3 сем\ООП\OOP_lab\Kontrolnaya\Kontrolnaya\obj\Debug\net6.0\Kontrolnaya.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\3 сем\ООП\OOP_lab\Kontrolnaya\Kontrolnaya\obj\Debug\net6.0\Kontrolnaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\3 сем\ООП\OOP_lab\Kontrolnaya\Kontrolnaya\obj\Debug\net6.0\Kontrolnaya.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\3 сем\ООП\OOP_lab\Kontrolnaya\Kontrolnaya\obj\Debug\net6.0\Kontrolnaya.AssemblyInfo.cs
+C:\Users\Acer\Desktop\3 сем\ООП\OOP_lab\Kontrolnaya\Kontrolnaya\obj\Debug\net6.0\Kontrolnaya.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\3 сем\ООП\OOP_lab\Kontrolnaya\Kontrolnaya\obj\Debug\net6.0\Kontrolnaya.dll
+C:\Users\Acer\Desktop\3 сем\ООП\OOP_lab\Kontrolnaya\Kontrolnaya\obj\Debug\net6.0\refint\Kontrolnaya.dll
+C:\Users\Acer\Desktop\3 сем\ООП\OOP_lab\Kontrolnaya\Kontrolnaya\obj\Debug\net6.0\Kontrolnaya.pdb
+C:\Users\Acer\Desktop\3 сем\ООП\OOP_lab\Kontrolnaya\Kontrolnaya\obj\Debug\net6.0\Kontrolnaya.genruntimeconfig.cache
+C:\Users\Acer\Desktop\3 сем\ООП\OOP_lab\Kontrolnaya\Kontrolnaya\obj\Debug\net6.0\ref\Kontrolnaya.dll
