@@ -4,7 +4,7 @@ namespace laba_2
 {
     public partial class Car
     {
-        private const string FLAG = "FLAG{dnNqy6T%3|z3ZOZ}";
+       
         private readonly int CarID;
 
         // class properties
